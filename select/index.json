@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "そのいのち",
+  "base_artist": "中村佳穂",
+  "createdAt": "2026-03-26T16:40:39.610991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そのいのち",
+      "artist": "Kaho Nakamura",
+      "has_synced": true,
+      "path": "select/01_そのいのち_Kaho_Nakamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そのいのち",
+      "artist": "中村佳穂",
+      "has_synced": false,
+      "path": "select/pl_01_そのいのち_中村佳穂.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "そのいのち",
+      "artist": "中村佳穂",
+      "has_synced": true,
+      "path": "select/localdb_01_そのいのち_中村佳穂.lrc",
+      "repo_name": "7eyOKJwaZJg"
+    }
+  ]
+}
